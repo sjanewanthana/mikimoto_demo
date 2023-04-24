@@ -1,0 +1,8 @@
+setwd("/Users/intoxicate/Desktop/mikimoto_demo")
+library(tidyverse)
+library(dplyr)
+library(scater)
+library(SingleCellExperiment)
+library(AnnotationDbi)
+library(org.Mm.eg.db)
+library(EnsDb.Mmusculus.v79)
